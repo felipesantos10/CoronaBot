@@ -1,0 +1,21 @@
+O que é o coronavírus?
+Os coronavírus são uma grande familia de virus que causam doenças que variam do resfriado comum a doenças mais graves, como a Sindrome Respiratoria do Oriente Mmdio (MERS) e a Sindrome Respiratoria Aguda Grave (SARS).
+Os seres humanos podem ser infectados com o novo coronavírus de origem animal?
+Investigacoes detalhadas descobriram que o SARS-CoV foi transmitido de gatos civis para humanos na China em 2002 e o MERS-CoV de camelos dromedários para humanos na Arábia Saudita em 2012. Vários coronavirus conhecidos estão circulando em animais que ainda não infectaram seres humanos. A medida que a vigilancia melhora em todo o mundo, e provavel que mais coronavirus sejam identificados.
+Quais são os sintomas?
+Depende do virus, mas os sinais comuns incluem sintomas respiratórios, febre, tosse, falta de ar e dificuldades respiratorias. Em casos mais graves, a infeccao pode causar pneumonia, sindrome respiratoria aguda grave, insuficiencia renal e ate morte.
+O coronavírus pode ser transmitido de pessoa para pessoa?
+Sim, alguns coronavirus podem ser transmitidos de pessoa para pessoa, geralmente após contato proximo com um paciente infectado, por exemplo, em um local de trabalho domestico ou em um centro de saude.
+Existe uma vacina?
+Quando uma doença e nova, não ha vacina ate que uma seja desenvolvida. Pode levar alguns anos para que uma nova vacina seja desenvolvida.
+Existe um tratamento?
+Não existe tratamento especifico para a doença causada por um novo coronavirus. No entanto, muitos dos sintomas podem ser tratados e, portanto, o tratamento com base na condição clinica do paciente. Além disso, os cuidados de suporte as pessoas infectadas podem ser altamente eficazes.
+O que posso fazer para me proteger?
+As recomendações padrão para reduzir a exposição e a transmissao de uma serie de doencas incluem a manutenção de higiene respiratoria e das maos, praticas alimentares seguras e evitar contato proximo, quando possivel, com qualquer pessoa que mostre sintomas de doenças respiratorias, como tosse e espirros.
+Os profissionais de saúde estão em risco?
+Sim, podem ser, pois os profissionais de saude entram em contato com os pacientes com mais frequencia do que o publico em geral. A OMS recomenda que os profissionais de saude apliquem consistentemente
+Quais recomendações da OMS para os países?
+A OMS incentiva todos os paises a aprimorar sua vigilancia para infeccoes respiratorias agudas graves (SARI), revisar cuidadosamente quaisquer padroes incomuns de casos de SARI ou pneumonia e notificar a OMS de qualquer caso suspeito ou confirmado de infeccao por coronavirus novo.
+Os paises são incentivados a continuar fortalecendo sua preparação para emergencias de saude, em conformidade com o Regulamento Sanitario Internacional (2005).
+Onde posso encontrar mais informações sobre o coronavírus?
+No MERS-CoV <a href="http://www.emro.who.int/health-topics/mers-cov/index.html">here</a>. Para mais informações no SARS-CoV <a href="https://www.who.int/csr/sars/en/">here</a>.
